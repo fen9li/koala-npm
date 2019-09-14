@@ -1,0 +1,28 @@
+{
+  "name": "koala-npm",
+  "version": "1.0.0",
+  "description": "koala app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fen9li/koala-npm.git"
+  },
+  "keywords": [
+    "koala",
+    "node",
+    "npm",
+    "publish"
+  ],
+  "author": "Feng Li",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fen9li/koala-npm/issues"
+  },
+  "homepage": "https://github.com/fen9li/koala-npm#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
